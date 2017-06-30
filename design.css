@@ -1,0 +1,11 @@
+#title {
+    font-size: xx-large;
+}
+.footer {
+    padding-left: 10%;
+}
+.amcharts-chart-div a {display:none !important;}/* removes amcharts tag */
+
+.year {
+    padding: 10px;
+}
